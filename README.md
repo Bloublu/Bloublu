@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" style="padding-right:10px; align='left';  width=26px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" style= "padding-right:10px; align='left'; height= 10px width=auto;" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt ='java' style= " padding-right:11px; align: left  witdh: 5px"/>
