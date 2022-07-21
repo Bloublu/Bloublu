@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <div>
-   <img alt="JAVA" width="40px" padding-right= 25px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:25px; align= left; " />
+   <img alt="JAVA" width="40px" padding-right= 25px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:25px; align= left; " />
 
    <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:15px; align= left; " />
 
