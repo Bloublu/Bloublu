@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-    [![img_contact](./images/Linkedin.png)](www.linkedin.com/in/bastien-bénariac)
-          
+   <a href='www.linkedin.com/in/bastien-bénariac'> <img src='images/Lnkedin.png'>
