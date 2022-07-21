@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 
    <img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:15px; align= left; " />
 
-   <img alt="SQL" width="40px" src="./images/sqlServer.png" style="padding-right:15px; align= left; " />
+   <img alt="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right:15px; align= left; " />
 
    <img alt="Salesforce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="padding-right:15px; align= left; " />
+
+   <img alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:15px; align= left; " />
 </div>
