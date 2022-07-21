@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-   <a href='www.linkedin.com/in/bastien-bénariac'> <img src='images/Lnkedin.png'>
+   <a href='https://www.linkedin.com/in/bastien-bénariac'> <img src='images/Lnkedin.png'>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt ='java' style=" padding-right:11px; align ='left'  witdh= '25px'"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt ='java' style= " padding-right:11px; align: left  witdh: 25px"/>
