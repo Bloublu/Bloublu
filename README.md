@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img alt="JAVA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
+<img alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px; align= left " />
+
