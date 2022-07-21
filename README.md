@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-   <a href='https://www.linkedin.com/in/bastien-bénariac'> <img src='images/Lnkedin.png'></a>
+   <a href='https://www.linkedin.com/in/bastien-bénariac'> 
+   <img width="100"
+      alt="linkedin"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg"
+    /></a>
+   
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg" />
+
+   <img src='images/Lnkedin.png'></a>
    <a href='https://www.linkedin.com/in/bastien-bénariac'> <img alt= "js" width="26px" margin= 10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Visual Studio Code"/></a>
 
    <a href ="#">
@@ -29,7 +37,7 @@ Here are some ideas to get you started:
       alt="Apprendre React"
       src="https://mikecodeur.com/mike/assets/mikecodeur-trans.png"
     /></a>
-  
+  -->
 
 
 ### Languages and Tools:
