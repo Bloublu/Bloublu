@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
    <div>
-      <a href= "www.linkedin.com/in/bastien-bénariac" target = "_blank"> 
+      <a href= "https://.linkedin.com/in/bastien-bénariac" target = "_blank"> 
       <img width="100"
          alt="linkedin"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"
