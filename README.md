@@ -16,35 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
+
    <a href='https://www.linkedin.com/in/bastien-bénariac'> 
-   <img width="50"
+   <img width="100"
       alt="linkedin"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg"
     /></a>
    
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg" />
-
-   <img src='images/Lnkedin.png'></a>
-   <a href='https://www.linkedin.com/in/bastien-bénariac'> <img alt= "js" width="26px" margin= 10px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Visual Studio Code"/></a>
-
-   <a href ="#">
-   <img width="100"
-      alt="Apprendre React"
-      src="https://mikecodeur.com/mike/assets/mikecodeur-trans.png"
-    /></a>
-    <a href="https://go.mikecodeur.com/react-mastery" >
-    <img width="100"
-      alt="Apprendre React"
-      src="https://mikecodeur.com/mike/assets/mikecodeur-trans.png"
-    /></a>
-  -->
 
 
 ### Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" style= "padding-right:10px; align='left'; height= 10px width=auto;" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt ='java' style= " padding-right:11px; align: left  witdh: 5px"/>
-
-<img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img alt="JAVA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+<img alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
