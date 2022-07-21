@@ -17,16 +17,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
    <div>
-      <a href="https://www.linkedin.com/in/bastien-bénariac" target="_blank"> 
+      <a href="https://www.linkedin.com/in/bastien-bénariac" onclick="window.open(this.href);return false;"> 
       <img width="100"
          alt="linkedin"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"
       /></a>
-      <a href="https://www.linkedin.com/in/bastien-bénariac" target="_blank"> 
-      <img alt="JAVA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:15px; align= left; " />
-      </a>
-      
-
    </div>
 
 
