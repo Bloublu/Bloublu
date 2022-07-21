@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
+### Connect with me:
     [![img_contact](./images/Linkedin.png)](www.linkedin.com/in/bastien-bénariac)
           
