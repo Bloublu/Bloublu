@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
    <a href='https://www.linkedin.com/in/bastien-bénariac'> <img src='images/Lnkedin.png'>
-   <a href='https://www.linkedin.com/in/bastien-bénariac'> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Visual Studio Code" style= "padding-right:10px; align='left'; height= 10px width=auto;" />
+   <a href='https://www.linkedin.com/in/bastien-bénariac'> <img alt= "js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Visual Studio Code" style= "padding-right:10px;"/>
 
 
 
