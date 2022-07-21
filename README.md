@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
    <a href='https://www.linkedin.com/in/bastien-bénariac'> 
-   <img width="100"
+   <img width="50"
       alt="linkedin"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg"
     /></a>
