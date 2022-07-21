@@ -22,6 +22,11 @@ Here are some ideas to get you started:
          alt="linkedin"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"
       /></a>
+      <a href="https://www.linkedin.com/in/bastien-bénariac" target="_blank"> 
+      <img alt="JAVA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="padding-right:15px; align= left; " />
+      </a>
+      
+
    </div>
 
 
@@ -38,6 +43,6 @@ Here are some ideas to get you started:
    <img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:15px; align= left; " />
 
    <img alt="SQL" width="40px" src="./images/sqlServer.png" style="padding-right:15px; align= left; " />
-   
+
    <img alt="Salesforce" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" style="padding-right:15px; align= left; " />
 </div>
