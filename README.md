@@ -71,4 +71,4 @@ Here are some ideas to get you started:
 
 #### autre stats 
 
-![Bloublu GitHub Stats](https://github-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=cobalt)
+![Anurag's GitHub Stats](https://github-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=radical)
