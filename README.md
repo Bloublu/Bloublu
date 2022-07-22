@@ -61,9 +61,12 @@ Here are some ideas to get you started:
 
    <img alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </div>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bloublu&theme=radical)
 
 
 ### ⭐ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bloublu&theme=radical)show_icons=true
+![GitHub stats]((https://github-readme-stats.vercel.app/api username=Bloublu&theme=radical)show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![GitHub stats]((https://github-readme-stats.vercel.app/api?username=Bloublu&theme=dark)show_icons=true&hide_border=false)
