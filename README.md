@@ -66,13 +66,20 @@ Here are some ideas to get you started:
 
 ### ⭐ GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-
-
-#### autre stats 
-
-![Anurag's GitHub Stats](https://github-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=radical)
-
-#### dernier essai
-
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=gruvbox)
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark)
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=radical)
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=merko)
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=tokyonight)
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=onedark)
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=synthwave)
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=highcontrast)
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dracula)
