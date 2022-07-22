@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 
 ### ⭐ GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bloublu&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bloublu&theme=radical)show_icons=true
