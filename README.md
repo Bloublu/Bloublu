@@ -72,3 +72,7 @@ Here are some ideas to get you started:
 #### autre stats 
 
 ![Anurag's GitHub Stats](https://github-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=radical)
+
+#### dernier essai
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=radical)
