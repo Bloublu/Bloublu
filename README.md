@@ -75,4 +75,4 @@ Here are some ideas to get you started:
 
 #### dernier essai
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=cobalt)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=gruvbox)
