@@ -66,20 +66,4 @@ Here are some ideas to get you started:
 
 ### ⭐ GitHub Stats
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=gruvbox)
-
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark)
-
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=radical)
-
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=merko)
-
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=tokyonight)
-
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=onedark)
-
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=synthwave)
-
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=highcontrast)
-
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dracula)
