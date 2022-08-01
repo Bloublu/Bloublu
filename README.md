@@ -72,5 +72,5 @@ Here are some ideas to get you started:
    <a href= "https://www.bloublu.fr/LeJustePrix/index" target="_blank"> 
       <img width="60"
          alt="LeJustePrix"
-         src="./images/dollar.png"/>
+         src="./images/dollar.png"/><p>Le Juste Prix</p>
    </a>
