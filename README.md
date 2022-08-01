@@ -73,4 +73,4 @@ Here are some ideas to get you started:
       <img width="60"
          alt="LeJustePrix"
          src="./images/dollar.png"/><p>Le Juste Prix</p>
-   </a>
+   </a><p>Le Juste Prix</p>
