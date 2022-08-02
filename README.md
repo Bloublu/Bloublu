@@ -71,12 +71,12 @@ Here are some ideas to get you started:
 
 ### Training:
    <a href= "https://www.bloublu.fr/lejusteprix/" target="_blank"> 
-      <img width="150"
+      <img width="100"
          alt="LeJustePrix"
          src="./images/justPrix.png"/>
    </a>
    <a href= "https://www.bloublu.fr/chifoumi/" target="_blank"> 
-      <img width="150"
+      <img width="100"
          alt="Chifoumi"
          src="./images/chifoumi.png"/>
    </a>
