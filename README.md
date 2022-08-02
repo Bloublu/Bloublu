@@ -70,8 +70,11 @@ Here are some ideas to get you started:
 
 
 ### Training:
-   <a href= "https://www.bloublu.fr/LeJustePrix/index" target="_blank"> 
+   <a href= "https://www.bloublu.fr/lejusteprix/" target="_blank"> 
       <img width="150"
          alt="LeJustePrix"
          src="./images/justPrix.jpg"/>
+   </a>
+   <a href= "https://www.bloublu.fr/chifoumi/" target="_blank"> 
+      CHIFOUMI
    </a>
