@@ -65,14 +65,15 @@ Here are some ideas to get you started:
 
 
 ### ⭐ GitHub Stats and Languages
-<div style='display: inline-block, vertical-align: top, width: 180px;;'>
+
+<img alt="Github" width="40px" src="![Bloublu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark)"/>
 
 ![Bloublu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu)
 
-</div>
+
 
 ### Training:
    <a href= "https://www.bloublu.fr/lejusteprix/" target="_blank"> 
