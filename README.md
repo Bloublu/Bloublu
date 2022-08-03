@@ -42,16 +42,10 @@ Here are some ideas to get you started:
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
    </a>
    <a href="mailto:contact@bloublu.fr">
-      <img width="60"
-         alt="linkedin"
-         src="./images/email.png"/>
-   </a>
-   <img width="60"
-         alt="linkedin"
-         src="./images/email1.png"/>
-         <img width="60"
+      <img width="80"
          alt="linkedin"
          src="./images/email2.png"/>
+   </a>
    
 
 ### Languages and Tools:
