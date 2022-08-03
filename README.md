@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <div>
 <img alt="Github" width="51%" src="https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark"/>
 
-<img alt="Github" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu&layout=compact"/>
+<img alt="Github" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu&layout=compact"/>
 </div>
 
 <!-- mise en commentaire des liens pour stats github et Languague car mise en place via balise img au dessus
