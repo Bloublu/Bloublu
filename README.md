@@ -43,8 +43,8 @@ Here are some ideas to get you started:
    </a>
    <a href="mailto:contact@bloublu.fr">
       <img width="60" 
-         alt="linkedin"
-         src="./images/email2.png"/>
+         alt="email"
+         src="./images/email.png"/>
    </a>
    
 
