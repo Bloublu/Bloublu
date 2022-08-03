@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 ### ⭐ GitHub Stats and Languages
 
-<img alt="Github" width="40px" src="![Bloublu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark)"/>
+<img alt="Github" width="40px" src="https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark"/>
 
 ![Bloublu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark)
 
