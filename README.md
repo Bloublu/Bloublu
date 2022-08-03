@@ -71,12 +71,12 @@ Here are some ideas to get you started:
 <img alt="Github" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu&layout=compact"/>
 </div>
 
-<!-- mise en commentaire des liens pour stats github et Languague car mise en place via balise img au dessus
-lien pour stats : 
+<!-- mise en commentaire des liens pour stats github et stats languagues car mise en place via balise img au dessus
+lien pour stats github: 
 
 ![Bloublu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark)
 
-liens pour Languages: 
+liens pour stats languages: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu)
 -->
