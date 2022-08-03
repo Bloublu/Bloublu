@@ -42,7 +42,7 @@ Here are some ideas to get you started:
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
    </a>
    <a href="mailto:contact@bloublu.fr">
-      <img width="60" margin="115px"
+      <img width="60"
          alt="linkedin"
          src="./images/email.png"/>
    </a>
