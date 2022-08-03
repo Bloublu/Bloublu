@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 
 ### ⭐ GitHub Stats and Languages
-
+<div>
 <img alt="Github" width="300px" src="https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark"/>
 
 <img alt="Github" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu&layout=compact"/>
-
+</div>
 ![Bloublu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark)
 
 
