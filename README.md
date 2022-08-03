@@ -66,11 +66,12 @@ Here are some ideas to get you started:
 
 ### ⭐ GitHub Stats and Languages
 <div style='display: inline-block vertical-align: top;'>
-
+<div style='width: 180px;'>
 ![Bloublu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark)
-
-
+</div>
+<div style='width: 180px;'>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu)
+</div>
 </div>
 
 ### Training:
