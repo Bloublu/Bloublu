@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 
 ### ⭐ GitHub Stats and Languages
-<div>
+<div style='display: inline-block vertical-align: top;'>
 
 ![Bloublu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark)
 
