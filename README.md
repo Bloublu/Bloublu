@@ -64,10 +64,14 @@ Here are some ideas to get you started:
 
 
 
-### ⭐ GitHub Stats
+### ⭐ GitHub Stats and Languages
+<div>
 
 ![Bloublu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bloublu&show_icons=true&theme=dark)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu)
+</div>
 
 ### Training:
    <a href= "https://www.bloublu.fr/lejusteprix/" target="_blank"> 
