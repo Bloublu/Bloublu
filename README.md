@@ -41,7 +41,11 @@ Here are some ideas to get you started:
          alt="linkedin"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
    </a>
-   <a href="mailto:contact@bloublu.fr">Un lien vers une adresse mail en HTML</a>
+   <a href="mailto:contact@bloublu.fr">
+      <img width="60"
+         alt="linkedin"
+         src="./images/email.png"/>
+   </a>
    
 
 ### Languages and Tools:
