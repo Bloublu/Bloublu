@@ -46,6 +46,11 @@ Here are some ideas to get you started:
          alt="email"
          src="./images/email.png"/>
    </a>
+   <a href="https://www.bloublu.fr/MonCV/">
+      <img width="60" 
+         alt="monCV"
+         src="./images/CV-6.webp"/>
+   </a>
    
 
 ### Languages and Tools:
