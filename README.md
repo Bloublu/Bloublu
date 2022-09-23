@@ -102,3 +102,8 @@ liens pour stats languages:
          alt="Chifoumi"
          src="./images/chifoumi.png"/>
    </a>
+   <a href= "https://todo.bloublu.com" target="_blank"> 
+      <img width="100"
+         alt="todo"
+         src="./images/todo.png"/>
+   </a>
