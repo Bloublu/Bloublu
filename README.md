@@ -41,12 +41,12 @@ Here are some ideas to get you started:
          alt="linkedin"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
    </a>
-   <a href="mailto:contact@bloublu.fr">
+   <a href="mailto:bastien.benariac@gmail.com">
       <img width="60" 
          alt="email"
          src="./images/email.png"/>
    </a>
-   <a href="https://www.bloublu.fr/MonCV/">
+   <a href="https://cv.bloublu.com">
       <img width="60" 
          alt="monCV"
          src="./images/CV-6.webp"/>
@@ -92,12 +92,12 @@ liens pour stats languages:
 -->
 
 ### Training:
-   <a href= "https://www.bloublu.fr/lejusteprix/" target="_blank"> 
+   <a href= "https://lejusteprix.bloublu.com" target="_blank"> 
       <img width="100"
          alt="LeJustePrix"
          src="./images/justPrix.png"/>
    </a>
-   <a href= "https://www.bloublu.fr/chifoumi/" target="_blank"> 
+   <a href= "https://chifoumi.bloublu.com" target="_blank"> 
       <img width="100"
          alt="Chifoumi"
          src="./images/chifoumi.png"/>
