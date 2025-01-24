@@ -7,7 +7,6 @@ aéronautique. J'ai faits le choix en 2021 de faire une reconversion en tant que
 Pour cela j'ai suivi une formation diplômante de 7 mois à l'ENI école informatique.
 
 Aujourd'hui, je prends vraiment plaisir à concevoir et imaginer des projets personnels. # le code c'est cool 😄
-Durant ma formation, j'ai adoré travailler sur J2EE ainsi que sur PHP. A ce jour je suis une formation sur Udemy ainsi qu'Open Class Room, pour monter en compétence sur JS et nodeJS.
 
 ####
 
@@ -18,7 +17,6 @@ aeronautics. I made the choice in 2021 to retrain as a WEB DEVELOPER and MOBILE 
 For this I followed a 7-month diploma course at the ENI computer school.
 
 Today, I really enjoy designing and imagining personal projects. # the code is cool 😄
-During my training, I loved working on J2EE as well as on PHP. To date I am training on Udemy as well as Open Class Room, to build skills on JS and nodeJS.
 
 <!--
 **Bloublu/Bloublu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,11 +44,7 @@ Here are some ideas to get you started:
          alt="email"
          src="./images/email.png"/>
    </a>
-   <a href="https://cv.bloublu.com">
-      <img width="60" 
-         alt="monCV"
-         src="./images/CV-6.webp"/>
-   </a>
+
    
 
 ### Languages and Tools:
@@ -91,19 +85,3 @@ liens pour stats languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloublu)
 -->
 
-### Training:
-   <a href= "https://lejusteprix.bloublu.com" target="_blank"> 
-      <img width="100"
-         alt="LeJustePrix"
-         src="./images/justPrix.png"/>
-   </a>
-   <a href= "https://chifoumi.bloublu.com" target="_blank"> 
-      <img width="100"
-         alt="Chifoumi"
-         src="./images/chifoumi.png"/>
-   </a>
-   <a href= "https://todo.bloublu.com" target="_blank"> 
-      <img width="120"
-         alt="todo"
-         src="./images/todo.png"/>
-   </a>
