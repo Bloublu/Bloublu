@@ -54,25 +54,21 @@ Here are some ideas to get you started:
    <img alt="Js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
    <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-
+</div><div>
    <img alt="Js" width="40px" src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text-thumbnail.png"/>
    <img alt="Js" width="40px" src="https://static-00.iconduck.com/assets.00/angular-icon-2048x2048-24b236vf.png"/>
    <img alt="Js" width="40px" src="https://static-00.iconduck.com/assets.00/vue-js-icon-2048x1766-btrgkrhi.png"/>
    <img alt="Js" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png"/>
-   
+</div><div>
    <img alt="Js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png"/>
    <img alt="Js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png"/>
    <img alt="Js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png"/>
-   
+</div></div>
    <img alt="Js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
    <img alt="Js" width="40px" src="https://img.icons8.com/?size=512&id=34886&format=png"/>
    <img alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-   
-   <img alt="Js" width="40px" src="https://www.svgrepo.com/show/354051/maven.svg"/>
-   <img alt="Js" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-npm-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175132.png"/>
-   <img alt="Js" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/free-docker-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-2944835.png?f=webp&w=256"/>
-   <img alt="JAVA" width="40px"  src="https://cdn-icons-png.flaticon.com/512/888/888879.png"/>
-   <img alt="PHP" width="40px" src="https://static-00.iconduck.com/assets.00/apache-icon-1024x2048-c1uxmyjc.png"/>
+   </div></div>
+ 
    <img alt="SQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"/>
    <img alt="Salesforce" width="40px" src="https://banner2.cleanpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-1713949532588.webp"/>
    
