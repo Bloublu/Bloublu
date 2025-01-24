@@ -49,8 +49,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <div>
-   <img alt="Js" width="40px" src="[![image](https://github.com/user-attachments/assets/01d99da8-ed24-483f-8b2f-ed051f062f21)
-](https://www.svgrepo.com/show/303388/java-4-logo.svg)"/>
+   <img alt="Js" width="40px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg"/>
    <img alt="Js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
    <img alt="Js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
    <img alt="Js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
