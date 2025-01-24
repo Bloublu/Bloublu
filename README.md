@@ -66,7 +66,6 @@ Here are some ideas to get you started:
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img alt="Git" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
    <img alt="Gitlab" width="40px" src="https://img.icons8.com/?size=512&id=34886&format=png"/>
-
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img alt="Postgre" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"/>
 </div>
