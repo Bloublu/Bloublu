@@ -54,23 +54,20 @@ Here are some ideas to get you started:
    <img alt="Js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
    <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
    <img alt="Js" width="40px" src="https://lh6.googleusercontent.com/proxy/Z66_VIDotUMKGcJzLXko7YCX_4x2Rh-ui2mRqOe1suR97F944Tpvt1ijAqH-eIr2pRWCNaML7_ObtvgC8brkQIxxHuWMDyQV8P76a2r8ZLdlozNmpXqyjGlFJcmYaySmm4rY2g7Uto_S3Q"/>
    <img alt="Js" width="40px" src="https://static-00.iconduck.com/assets.00/angular-icon-2048x2048-24b236vf.png"/>
    <img alt="Js" width="40px" src="https://static-00.iconduck.com/assets.00/vue-js-icon-2048x1766-btrgkrhi.png"/>
    <img alt="Js" width="40px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ionic-icon.png"/>
-</div>
-<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
    <img alt="Js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png"/>
    <img alt="Js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/800px-IntelliJ_IDEA_Icon.svg.png"/>
    <img alt="Js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png"/>
-</div>
-<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
    <img alt="Js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
    <img alt="Js" width="40px" src="https://img.icons8.com/?size=512&id=34886&format=png"/>
    <img alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</div>
-<div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
    <img alt="SQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"/>
    <img alt="Salesforce" width="40px" src="https://banner2.cleanpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-1713949532588.webp"/>
 </div>
