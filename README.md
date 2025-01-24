@@ -66,10 +66,9 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
    <img alt="Js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"/>
    <img alt="Js" width="40px" src="https://img.icons8.com/?size=512&id=34886&format=png"/>
-   <img alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+   <img alt="Github" width="40px" src="https://icon2.cleanpng.com/20240213/kl/transparent-github-icon-black-and-white-cat-logo-with-cats-1710879425955.webp"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
    <img alt="SQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"/>
-   <img alt="Salesforce" width="40px" src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp"/>
 </div>
 
 
