@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 <div>
-   <img alt="Js" width="40px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.png)"/>
+   <img alt="Js" width="40px" src="![image](https://github.com/user-attachments/assets/01d99da8-ed24-483f-8b2f-ed051f062f21)
+"/>
    <img alt="Js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
    <img alt="Js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
    <img alt="Js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
