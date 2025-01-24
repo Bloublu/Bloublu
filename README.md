@@ -69,7 +69,7 @@ Here are some ideas to get you started:
    <img alt="Github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
    <img alt="SQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"/>
-   <img alt="Salesforce" width="40px" src="https://banner2.cleanpng.com/20180824/ktx/kisspng-mysql-workbench-computer-icons-logo-portable-netwo-thezedt-tech-tips-and-random-thoughts-1713949532588.webp"/>
+   <img alt="Salesforce" width="40px" src="https://banner2.cleanpng.com/20180411/wre/avf0mauoj.webp"/>
 </div>
 
 
