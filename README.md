@@ -53,8 +53,8 @@ Here are some ideas to get you started:
    <img alt="Js" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"/>
    <img alt="Js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-   <img alt="CSS" width="40px" style="margin-right=50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-
+   <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
    <img alt="Js" width="40px" src="https://lh6.googleusercontent.com/proxy/Z66_VIDotUMKGcJzLXko7YCX_4x2Rh-ui2mRqOe1suR97F944Tpvt1ijAqH-eIr2pRWCNaML7_ObtvgC8brkQIxxHuWMDyQV8P76a2r8ZLdlozNmpXqyjGlFJcmYaySmm4rY2g7Uto_S3Q"/>
    <img alt="Js" width="40px" src="https://static-00.iconduck.com/assets.00/angular-icon-2048x2048-24b236vf.png"/>
    <img alt="Js" width="40px" src="https://static-00.iconduck.com/assets.00/vue-js-icon-2048x1766-btrgkrhi.png"/>
